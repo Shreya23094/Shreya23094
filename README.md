@@ -14,15 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shreya2304&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
 
 I am an aspiring data scientist. I am currently working on building models and analysis projects using efficient use of libraries and tools like python, Tensorflow, Streamlit. I'm still developing my skills in data science and DSA using Java.
 - 💻 I'm currently learning PyTorch.
 - 📌 I'm from India.
 
+My Tech Stack:
+
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+![vscode]((https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))
+![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 #### My Holopin Board:
 [![@shreya23094's Holopin board](https://holopin.io/api/user/board?user=shreya23094)](https://holopin.io/@shreya23094)
