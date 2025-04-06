@@ -42,11 +42,6 @@ Connect me:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shreya23094&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
- <p align='center'>
-  <a href='https://pay.blink.sv/sanlim?amount=0&memo=&display=USD'>
-     <img src='https://github.com/alexandresanlim/alexandresanlim/assets/5353685/ca997d22-da69-428f-bce6-ce5a3df274cf' />
-  </a>
- <p/>
    
 #### My Holopin Board:
 [![@shreya23094's Holopin board](https://holopin.io/api/user/board?user=shreya23094)](https://holopin.io/@shreya23094)
