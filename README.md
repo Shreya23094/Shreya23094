@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 
 I am an aspiring data scientist. I am currently working on building models and analysis projects using efficient use of libraries and tools like python, Tensorflow, Streamlit. I'm still developing my skills in data science and DSA using Java.
-- 💻 I'm currently learning PyTorch.
+- 💻 I'm currently learning PyTorch and Neural nwtworks.
 - 📌 I'm from India.
+- ☕ Working on ML, AI and LLM projects.
 
 Skills:
+
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
