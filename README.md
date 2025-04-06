@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shreya2304&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
 I am an aspiring data scientist. I am currently working on building models and analysis projects using efficient use of libraries and tools like python, Tensorflow, Streamlit. I'm still developing my skills in data science and DSA using Java.
