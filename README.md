@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am an aspiring data scientist. I am currently working on building models and analysis projects using efficient use of libraries and tools like python, Tensorflow, Streamlit. I'm still developing my skills in data science and DSA using Java.
+I am an aspiring data scientist. I am currently working on building models and analysis projects using efficient use of libraries and tools like python, Tensorflow, Streamlit. I'm still developing my skills in data science and I'm also working on my problem-solving skills by working on DSA algorithms using Java.
 - 💻 I'm currently learning PyTorch and Neural networks.
 - 📌 I'm from India.
 - ☕ Working on implementing ML, AI and LLM projects.
